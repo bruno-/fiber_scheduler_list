@@ -12,6 +12,11 @@ Ruby's test `Scheduler` | [link](https://github.com/ruby/ruby/blob/ruby_3_1/test
 The best way to get notified when a new Fiber Scheduler is released is to
 start watching this repo.
 
+
 ### Related
 
-- [fiber_scheduler_spec](https://github.com/bruno-/fiber_scheduler_spec) provides common tests for Fiber Schedulers and [tests each of them](https://github.com/bruno-/fiber_scheduler_spec/tree/main/spec).
+- Learn more about the Ruby's
+  [Fiber Scheduler feature](https://brunosutic.com/blog/ruby-fiber-scheduler).
+- [fiber_scheduler_spec](https://github.com/bruno-/fiber_scheduler_spec)
+  provides common tests for Fiber Schedulers and
+  [tests each of them](https://github.com/bruno-/fiber_scheduler_spec/tree/main/spec).
