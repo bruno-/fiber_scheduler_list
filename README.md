@@ -16,6 +16,11 @@ Name | Ruby | Control passing | Description
 The best way to get notified when a new Fiber Scheduler is released is to
 start watching this repo.
 
+### What should I use?
+
+- Ruby 3.0: [`Evt::Scheduler`](https://github.com/dsh0416/evt)
+- Ruby 3.1: [`FiberScheduler`](https://github.com/bruno-/fiber_scheduler)
+  (disclaimer: I'm the maintainer of `FiberScheduler` project).
 
 ### Related
 
